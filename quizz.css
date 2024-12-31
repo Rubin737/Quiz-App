@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    font-family: "Poppins", serif;
+}
+.whole-container{
+    display: flex;
+    flex-direction: column;
+  
+    padding-bottom: 50px;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.process{
+    display: flex;
+    flex-direction: column;
+    column-gap:20px ;
+    padding-top: 20px;
+}
+.level-type{
+    display: flex;
+    row-gap: 10px;
+    flex-direction: column;
+    border: none;
+}
+.correct{
+    background: green;
+    color: white;
+    border: none;
+}
+.incorrect{
+    background: red;
+    color: white;
+    border: none;
+}
+.last{
+
+    display: flex;
+    flex-direction: column;
+    
+}
+h1{
+    font-size: 37px;
+}
+.process h2{
+    color: rgb(4, 62, 85);
+    padding-bottom: 20px;
+}
+.level-type button{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(12, 12, 12);
+    border: none;
+    margin-bottom: 20px;
+    
+}
+
+.options{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 450px;
+}
+.options button{
+
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(12, 12, 12);
+    border: none;
+    padding: 5px 20px 5px 20px;
+    color: cadetblue;
+
+}
+.options button:hover,.last-part button:hover{
+    color: blue ;
+}
+.last-part button{
+
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(12, 12, 12);
+    border: none;
+    padding: 5px 20px 5px 20px;
+    color: cadetblue;
+
+}
+strong{
+    color: cadetblue;
+}
