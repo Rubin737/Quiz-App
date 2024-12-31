@@ -24,7 +24,7 @@ The **Quiz App** is an interactive and fun application that allows users to test
 
 - **Img 1 - Choose Difficulty Level**
 
-![choose difficulty](Screenshots\Screenshot_31-12-2024_15147_.jpeg)
+https://github.com/Rubin737/Quiz-App/blob/master/Screenshots/Screenshot_31-12-2024_15147_.jpeg?raw=true
 
 - **Img 2 - game UI**
 
