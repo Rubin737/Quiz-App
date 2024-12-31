@@ -24,11 +24,13 @@ The **Quiz App** is an interactive and fun application that allows users to test
 
 - **Img 1 - Choose Difficulty Level**
 
-https://github.com/Rubin737/Quiz-App/blob/master/Screenshots/Screenshot_31-12-2024_15147_.jpeg?raw=true
+
+![game page](https://github.com/Rubin737/Quiz-App/blob/master/Screenshots/Screenshot_31-12-2024_15147_.jpeg?raw=true)
+
 
 - **Img 2 - game UI**
 
-![game page](Screenshots\Screenshot_31-12-2024_155558_.jpeg)
+![game page](https://github.com/Rubin737/Quiz-App/blob/master/Screenshots/Screenshot_31-12-2024_155558_.jpeg?raw=true)
 
 
 
