@@ -20,6 +20,16 @@ The **Quiz App** is an interactive and fun application that allows users to test
 4. Answer the questions within the given time frame to maximize your score.
 5. View your final score at the end of the quiz.
 
+## Screenshots 📷
+
+- **Img 1 - Choose Difficulty Level**
+
+![choose difficulty](Screenshots\Screenshot_31-12-2024_15147_.jpeg)
+
+- **Img 2 - game UI**
+
+![game page](Screenshots\Screenshot_31-12-2024_155558_.jpeg)
+
 
 
 
